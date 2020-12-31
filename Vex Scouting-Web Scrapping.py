@@ -17,4 +17,4 @@ def totalEvents(team):
   return "Total Events Attended: ",search(team)[9]
 def ranking(team):
   return "Overall Rankings: ", search(team)[15]
-print(progSkills("7405K"))
+print(progSkills("750B"))
